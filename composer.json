@@ -1,0 +1,19 @@
+{
+  "name": "beiyiischool/datafactory",
+  "description": "beiyiischool datafactory",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "niuziyuan",
+      "email": "601539000@qq.com"
+    }
+  ],
+  "require": {
+    "php":">=5.3"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"BeiyiiSchool\\": "src"}
+  }
+}
